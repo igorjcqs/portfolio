@@ -394,6 +394,7 @@ export default function TravelsMap() {
                             fill
                             className="object-cover"
                             priority
+                            unoptimized
                           />
                         ) : (
                           <video
