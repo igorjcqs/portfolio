@@ -44,7 +44,7 @@ export default function Home() {
     },
     {
       label: 'PRESENT',
-      text: "Now focused on building scalable systems and shipping fast. Mastering AI tools to accelerate development and deliver products at unprecedented speed. The future belongs to those who build quickly and iterate relentlessly.",
+      text: 'Now focused on building scalable systems and shipping fast. Mastering AI tools to accelerate development and deliver products at unprecedented speed. The future belongs to those who build quickly and iterate relentlessly.',
     },
   ];
 
